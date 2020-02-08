@@ -1,3 +1,7 @@
 [submodule "custom/plugins/rustup"]
 	path = custom/plugins/rustup
 	url = git@github.com:pkulev/zsh-rustup-completion.git
+[submodule "themes/powerlevel10k"]
+	path = themes/powerlevel10k
+	url = git@github.com:romkatv/powerlevel10k
+	branch = master
