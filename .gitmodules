@@ -1,0 +1,3 @@
+[submodule "custom/plugins/rustup"]
+	path = custom/plugins/rustup
+	url = git@github.com:pkulev/zsh-rustup-completion.git
