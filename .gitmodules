@@ -5,3 +5,6 @@
 	path = themes/powerlevel10k
 	url = git@github.com:romkatv/powerlevel10k
 	branch = master
+[submodule "custom/plugins/nx-completion"]
+	path = custom/plugins/nx-completion
+	url = git@github.com:jscutlery/nx-completion.git
